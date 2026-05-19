@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Global Particles Website
+
+A modern and responsive company website created for Global Particles as a freelance project.
+
+Includes custom branding, logo design, dynamic UI sections, and responsive webpage layouts.
+
+## Features
+
+- Responsive Design
+- Dynamic UI Components
+- Modern Landing Page
+- Custom Branding and Logo Design
+- Mobile Friendly Layout
+
+## Technologies Used
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/global-particles-website.git
+>>>>>>> 143fb8e26e4e4c780dbc391b20da2632b9e647b6
